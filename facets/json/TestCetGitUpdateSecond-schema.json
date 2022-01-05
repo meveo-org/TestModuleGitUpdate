@@ -1,0 +1,45 @@
+{
+    "storages": [],
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "id": "TestCetGitUpdateSecond",
+    "title": "TestCetGitUpdateSecond",
+    "type": "object",
+    "properties": {
+        "fieldA": {
+            "storages": [],
+            "indexType": "INDEX_NOT_ANALYZE",
+            "nullable": true,
+            "description": "fieldA",
+            "readOnly": false,
+            "versionable": false,
+            "id": "CE_TestCetGitUpdateSecond_fieldA",
+            "title": "TestCetGitUpdateSecond.fieldA",
+            "type": "string",
+            "maxLength": 255
+        },
+        "fieldC": {
+            "storages": [],
+            "indexType": "INDEX_NOT_ANALYZE",
+            "nullable": true,
+            "description": "fieldC",
+            "readOnly": false,
+            "versionable": false,
+            "id": "CE_TestCetGitUpdateSecond_fieldC",
+            "title": "TestCetGitUpdateSecond.fieldC",
+            "type": "string",
+            "maxLength": 255
+        },
+        "fieldB": {
+            "storages": [],
+            "indexType": "INDEX_NOT_ANALYZE",
+            "nullable": true,
+            "description": "fieldB",
+            "readOnly": false,
+            "versionable": false,
+            "id": "CE_TestCetGitUpdateSecond_fieldB",
+            "title": "TestCetGitUpdateSecond.fieldB",
+            "type": "string",
+            "maxLength": 255
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "storages": [],
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "id": "TestCetGitUpdate",
+    "title": "TestCetGitUpdate",
+    "type": "object",
+    "properties": {
+        "fieldA": {
+            "storages": [],
+            "nullable": true,
+            "description": "fieldA",
+            "readOnly": false,
+            "versionable": false,
+            "id": "CE_TestCetGitUpdate_fieldA",
+            "title": "TestCetGitUpdate.fieldA",
+            "type": "string",
+            "maxLength": 255
+        },
+        "fieldC": {
+            "storages": [],
+            "nullable": true,
+            "description": "fieldC",
+            "readOnly": false,
+            "versionable": false,
+            "id": "CE_TestCetGitUpdate_fieldC",
+            "title": "TestCetGitUpdate.fieldC",
+            "type": "string",
+            "maxLength": 255
+        },
+        "fieldB": {
+            "storages": [],
+            "nullable": true,
+            "description": "fieldB",
+            "readOnly": false,
+            "versionable": false,
+            "id": "CE_TestCetGitUpdate_fieldB",
+            "title": "TestCetGitUpdate.fieldB",
+            "type": "string",
+            "maxLength": 255
+        }
+    }
+}

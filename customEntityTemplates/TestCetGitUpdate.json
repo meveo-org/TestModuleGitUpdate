@@ -1,6 +1,6 @@
 {
   "code" : "TestCetGitUpdate",
-  "name" : "TestCetGitUpdate",
+  "name" : "TestCetGitUpdate - Updated",
   "availableStorages" : [ ],
   "sqlStorageConfiguration" : {
     "storeAsTable" : true
